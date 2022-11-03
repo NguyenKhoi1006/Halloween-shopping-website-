@@ -1,0 +1,1 @@
+Copyright by Nguyen Dinh Khoi.
